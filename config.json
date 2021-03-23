@@ -1,0 +1,24 @@
+{
+  "user": "",
+  "accessKey": "",
+  "num_parallels": 5,
+  "specsDir": "tests",
+  "devices": [
+    {
+      "name": "Safari Big Sur",
+      "os": "OS X",
+      "os_version": "Big Sur",
+      "browserName": "Safari",
+      "browser_version": "14.0",
+      "real_mobile": "false"
+    },
+    {
+      "name": "Chrome Windows",
+      "os": "Windows",
+      "os_version": "10",
+      "browserName": "Chrome",
+      "browser_version": "88.0",
+      "real_mobile": "false"
+    }
+  ]
+}
